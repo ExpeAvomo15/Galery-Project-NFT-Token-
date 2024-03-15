@@ -1,2 +1,2 @@
 # Galery-Project-NFT-Token-
-In this I coded a Smart Contract in Solidity, that able the users tomake transactions in with artworks in an Hipotetycal halery.
+In this repository, I have implemented a Smart Contract in Solidity enabling users to conduct transactions involving artworks within a hypothetical gallery.
